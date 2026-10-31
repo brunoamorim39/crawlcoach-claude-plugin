@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "crawlcoach": {
+      "type": "http",
+      "url": "https://crawlcoach.com/mcp"
+    }
+  }
+}

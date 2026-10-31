@@ -1,0 +1,20 @@
+{
+  "name": "crawlcoach",
+  "displayName": "CrawlCoach",
+  "version": "0.1.0",
+  "description": "Find out why pages are missing from Google and get the fix for each. Read your fix list and the pages Google left out, fix them in your code, and recheck the changed pages. Check any site's robots.txt, sitemaps, llms.txt, and AI crawler access without an account.",
+  "author": {
+    "name": "Gupler LLC",
+    "email": "support@crawlcoach.com",
+    "url": "https://crawlcoach.com"
+  },
+  "homepage": "https://crawlcoach.com/ai-agent",
+  "repository": "https://github.com/brunoamorim39/crawlcoach-claude-plugin",
+  "license": "MIT",
+  "keywords": ["seo", "google search console", "indexing", "robots.txt", "sitemap", "llms.txt"],
+  "icon": "./assets/icon.svg",
+  "documentationUrl": "https://crawlcoach.com/docs/mcp-tools",
+  "supportUrl": "mailto:support@crawlcoach.com",
+  "privacyPolicyUrl": "https://crawlcoach.com/privacy",
+  "termsOfServiceUrl": "https://crawlcoach.com/terms"
+}
